@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @jijiimishelle
-- 👀 I’m interested in AI
-- 🌱 I’m currently majoring in Computer Engineering
-<!---
-JiJimishelle/JiJimishelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi~ I’m Mishelle✨
+- Currently pursuing a double major in Computer Engineering + AI and Tourism Management in South Korea.
